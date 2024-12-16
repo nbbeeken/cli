@@ -9,8 +9,8 @@
 
 One of the following versions of [Node.js](https://nodejs.org/en/download/) must be installed to run **`npm`**:
 
-* `18.x.x` >= `18.17.0`
-* `20.5.0` or higher
+* `20.17.0` or higher
+* `22.9.0` or higher
 
 ### Installation
 
